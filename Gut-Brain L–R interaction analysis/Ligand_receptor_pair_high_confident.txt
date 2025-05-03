@@ -1,0 +1,192 @@
+Gene_secreted	Gene_receptor	Pathway_category
+aos	Egfr	EGFR signaling pathway
+grk	Egfr	EGFR signaling pathway
+Krn	Egfr	EGFR signaling pathway
+spi	Egfr	EGFR signaling pathway
+vn	Egfr	EGFR signaling pathway
+Pvf1	Pvr	PVR RTK signaling pathway
+Pvf2	Pvr	PVR RTK signaling pathway
+Pvf3	Pvr	PVR RTK signaling pathway
+bnl	btl	FGFR signaling pathway
+dally	btl	FGFR signaling pathway
+pyr	btl	FGFR signaling pathway
+ths	btl	FGFR signaling pathway
+bnl	htl	FGFR signaling pathway
+pyr	htl	FGFR signaling pathway
+ths	htl	FGFR signaling pathway
+dpp	dally	HEDGEHOG signaling pathway
+hh	dally	HEDGEHOG signaling pathway
+upd1	dally	HEDGEHOG signaling pathway
+wg	dally	HEDGEHOG signaling pathway
+hh	dlp	HEDGEHOG signaling pathway
+wg	dlp	HEDGEHOG signaling pathway
+hh	ptc	HEDGEHOG signaling pathway
+hh	smo	HEDGEHOG signaling pathway
+ds	ft	HIPPO signaling pathway
+fj	ft	HIPPO signaling pathway
+Ilp1	InR	INSULIN signaling pathway
+Ilp2	InR	INSULIN signaling pathway
+Ilp3	InR	INSULIN signaling pathway
+Ilp4	InR	INSULIN signaling pathway
+Ilp5	InR	INSULIN signaling pathway
+Ilp6	InR	INSULIN signaling pathway
+Ilp7	InR	INSULIN signaling pathway
+Ilp8	InR	INSULIN signaling pathway
+Ilp8	Lgr3	INSULIN signaling pathway
+upd1	dome	JAK-STAT signaling pathway
+upd2	dome	JAK-STAT signaling pathway
+upd3	dome	JAK-STAT signaling pathway
+Dl	N	NOTCH signaling pathway
+Ser	N	NOTCH signaling pathway
+Actbeta	babo	TGF beta signaling pathway
+daw	babo	TGF beta signaling pathway
+dpp	babo	TGF beta signaling pathway
+gbb	babo	TGF beta signaling pathway
+myo	babo	TGF beta signaling pathway
+mav	babo	TGF beta signaling pathway
+daw	put	TGF beta signaling pathway
+dpp	put	TGF beta signaling pathway
+gbb	put	TGF beta signaling pathway
+scw	put	TGF beta signaling pathway
+dpp	sax	TGF beta signaling pathway
+gbb	sax	TGF beta signaling pathway
+scw	sax	TGF beta signaling pathway
+Actbeta	tkv	TGF beta signaling pathway
+daw	tkv	TGF beta signaling pathway
+dpp	tkv	TGF beta signaling pathway
+gbb	tkv	TGF beta signaling pathway
+myo	tkv	TGF beta signaling pathway
+scw	tkv	TGF beta signaling pathway
+egr	grnd	TNF alpha signaling pathway
+egr	wgn	TNF alpha signaling pathway
+wg	arr	WNT signaling pathway
+Wnt10	arr	WNT signaling pathway
+Wnt2	arr	WNT signaling pathway
+Wnt4	arr	WNT signaling pathway
+Wnt5	arr	WNT signaling pathway
+Wnt6	arr	WNT signaling pathway
+dlp	dally	WNT signaling pathway
+dpp	dally	WNT signaling pathway
+hh	dally	WNT signaling pathway
+upd1	dally	WNT signaling pathway
+wg	dally	WNT signaling pathway
+hh	dlp	WNT signaling pathway
+wg	dlp	WNT signaling pathway
+wg	fz	WNT signaling pathway
+Wnt10	fz	WNT signaling pathway
+Wnt2	fz	WNT signaling pathway
+Wnt4	fz	WNT signaling pathway
+Wnt5	fz	WNT signaling pathway
+Wnt6	fz	WNT signaling pathway
+wg	fz2	WNT signaling pathway
+Wnt10	fz2	WNT signaling pathway
+Wnt2	fz2	WNT signaling pathway
+Wnt4	fz2	WNT signaling pathway
+Wnt5	fz2	WNT signaling pathway
+Wnt6	fz2	WNT signaling pathway
+wg	fz3	WNT signaling pathway
+Wnt10	fz3	WNT signaling pathway
+Wnt2	fz3	WNT signaling pathway
+Wnt4	fz3	WNT signaling pathway
+Wnt5	fz3	WNT signaling pathway
+Wnt6	fz3	WNT signaling pathway
+wg	fz4	WNT signaling pathway
+Wnt10	fz4	WNT signaling pathway
+Wnt2	fz4	WNT signaling pathway
+Wnt4	fz4	WNT signaling pathway
+Wnt5	fz4	WNT signaling pathway
+Wnt6	fz4	WNT signaling pathway
+wntD	fz4	WNT signaling pathway
+wry	N	NOTCH signaling pathway
+Actbeta	put	TGF beta signaling pathway
+myo	wit	TGF beta signaling pathway
+gbb	wit	TGF beta signaling pathway
+myo	put	TGF beta signaling pathway
+mav	put	TGF beta signaling pathway
+mav	sax	TGF beta signaling pathway
+mav	tkv	TGF beta signaling pathway
+mav	wit	TGF beta signaling pathway
+daw	wit	TGF beta signaling pathway
+Actbeta	wit	TGF beta signaling pathway
+scw	wit	TGF beta signaling pathway
+dpp	wit	TGF beta signaling pathway
+boss	sev	EGFR signaling pathway
+NT1	Tl	Toll signaling pathway
+spz	Tl	Toll signaling pathway
+spz5	Tl	Toll signaling pathway
+NT1	Toll-7	Toll signaling pathway
+spz	Toll-7	Toll signaling pathway
+spz5	Toll-7	Toll signaling pathway
+trk	tor	Torso signaling pathway
+Akh	AkhR	G protein-coupled receptor signaling pathway
+CCAP	AkhR	G protein-coupled receptor signaling pathway
+Crz	AkhR	G protein-coupled receptor signaling pathway
+Akh	CCAP-R	G protein-coupled receptor signaling pathway
+Crz	CCAP-R	G protein-coupled receptor signaling pathway
+Akh	CrzR	G protein-coupled receptor signaling pathway
+Dh31	Dh31-R	G protein-coupled receptor signaling pathway
+Dh44	Dh44-R1	G protein-coupled receptor signaling pathway
+Dh44	Dh44-R2	G protein-coupled receptor signaling pathway
+ETH	ETHR	G protein-coupled receptor signaling pathway
+Gpa2	Lgr1	G protein-coupled receptor signaling pathway
+Gpb5	Lgr1	G protein-coupled receptor signaling pathway
+Lk	Lkr	G protein-coupled receptor signaling pathway
+fog	mthl1	G protein-coupled receptor signaling pathway
+Gbp1	mthl10	G protein-coupled receptor signaling pathway
+Capa	PK2-R2	G protein-coupled receptor signaling pathway
+ETH	PK2-R2	G protein-coupled receptor signaling pathway
+RYa	RYa-R	G protein-coupled receptor signaling pathway
+Dup99B	SPR	G protein-coupled receptor signaling pathway
+Mip	SPR	G protein-coupled receptor signaling pathway
+SP	SPR	G protein-coupled receptor signaling pathway
+Trissin	TrissinR	G protein-coupled receptor signaling pathway
+AstA	AstA-R1	neuropeptide signaling pathway
+AstA	AstA-R2	neuropeptide signaling pathway
+Capa	CapaR	neuropeptide signaling pathway
+CCAP	CCAP-R	neuropeptide signaling pathway
+Dsk	CCKLR-17D1	neuropeptide signaling pathway
+Crz	CrzR	neuropeptide signaling pathway
+FMRFa	FMRFaR	neuropeptide signaling pathway
+Ms	MsR1	neuropeptide signaling pathway
+Ms	MsR2	neuropeptide signaling pathway
+NPF	NPFR	neuropeptide signaling pathway
+Pdf	Pdfr	neuropeptide signaling pathway
+Capa	PK1-R	neuropeptide signaling pathway
+Hug	PK2-R1	neuropeptide signaling pathway
+Hug	PK2-R2	neuropeptide signaling pathway
+Proc	Proc-R	neuropeptide signaling pathway
+Burs	rk	neuropeptide signaling pathway
+Pburs	rk	neuropeptide signaling pathway
+SIFa	SIFaR	neuropeptide signaling pathway
+sNPF	sNPF-R	neuropeptide signaling pathway
+NT1	Toll-6	neurotrophin signaling pathway
+spz5	Toll-6	neurotrophin signaling pathway
+Ephrin	Eph	Ephrin pathway
+Sema1a	PlexA	axon guidance
+Sema2a	PlexA	axon guidance
+Sema2a	PlexB	axon guidance
+Sema5c	PlexA	cell migration
+Sema1a	otk	cell-cell signaling
+Wnt5	drl	chemorepulsion of axon
+Wnt5	Drl-2	chemorepulsion of axon
+Wnt4	fj	establishment of planar polarity
+ft	ds	heterophilic cell-cell adhesion
+shv	mys	integrin-mediated signaling pathway
+Wnt2	otk	internal genitalia morphogenesis
+Wnt2	otk2	internal genitalia morphogenesis
+Wnt4	otk	negative regulation of canonical Wnt signaling pathway
+Ilp8	drl	positive regulation of cAMP-mediated signaling
+PlexA	Gyc76C	positive regulation of guanylate cyclase activity
+Nplp1	Gyc76C	receptor guanylyl cyclase signaling pathway
+spz5	kek2	regulation of synaptic plasticity
+spz5	kek5	regulation of synaptic plasticity
+NT1	kek6	regulation of synaptic plasticity
+spz5	kek6	regulation of synaptic plasticity
+hh	boi	smoothened signaling pathway
+hh	ihog	smoothened signaling pathway
+Tig	if	substrate adhesion-dependent cell spreading
+Tig	mys	substrate adhesion-dependent cell spreading
+Sema2b	PlexB	synaptic target attraction
+Tk	TkR86C	tachykinin receptor signaling pathway
+Tk	TkR99D	tachykinin receptor signaling pathway
+jeb	Alk	transmembrane receptor protein tyrosine kinase signaling pathway
