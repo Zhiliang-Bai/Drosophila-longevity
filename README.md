@@ -22,7 +22,7 @@ Cell–cell connectivity patterns were analyzed using the R package [Connectome 
 
 <img width="932" alt="Screenshot 2025-05-03 at 8 04 10 PM" src="https://github.com/user-attachments/assets/a5477a65-2d41-4ea6-97f3-5d38bd1dd98d" />
 
-Scripts are included in the "Gut-Brain L–R interaction analysis"
+Scripts are included in the "Gut-Brain L–R interaction analysis" folder.
 
 ## 4. Fly metabolic analysis pipeline (FLY-MAP)
 
@@ -30,7 +30,7 @@ We developed a computational pipeline, FLY-MAP, to extract and analyze metabolic
 
 <img width="817" alt="Screenshot 2025-05-03 at 8 27 49 PM" src="https://github.com/user-attachments/assets/e128cb79-ee20-4648-9087-22f05a788989" />
 
-Scripts are included in the "FLY-MAP"
+Scripts are included in the "FLY-MAP" folder.
 
 
 
