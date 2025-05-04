@@ -14,16 +14,23 @@ Standard Seurat workflow functions were applied in the following order: Normaliz
 
 <img width="1386" alt="Screenshot 2025-05-03 at 8 03 07 PM" src="https://github.com/user-attachments/assets/f921868f-8422-4756-9eb4-0793789668f4" />
 
-
-
-
 Scripts are included in the "Unsupervised clustering" folder.
 
 ## 3. Gut-Brain ligand–receptor (L–R) interaction analysis
 
+Cell–cell connectivity patterns were analyzed using the R package [Connectome V1.0.0](https://msraredon.github.io/Connectome/) in “custom mapping” mode, based on ligand and receptor expression derived from our snRNA-seq datasets. A high-confidence list of L–R pairs covering major Drosophila signaling pathways was curated from [FlyPhoneDB](https://www.flyrnai.org/tools/fly_phone/web/).
+
+<img width="932" alt="Screenshot 2025-05-03 at 8 04 10 PM" src="https://github.com/user-attachments/assets/a5477a65-2d41-4ea6-97f3-5d38bd1dd98d" />
 
 Scripts are included in the "Gut-Brain L–R interaction analysis"
 
+## 4. Fly metabolic analysis pipeline (FLY-MAP)
+
+We developed a computational pipeline, FLY-MAP, to extract and analyze metabolic profiles from the snRNA-seq dataset. Specifically, a metabolic matrix was constructed by extracting genes associated with Drosophila KEGG metabolic pathways, encompassing 11 major categories and 81 pathways, from the original whole-transcriptome gene expression matrix. Unsupervised clustering based on this metabolic matrix was then performed separately for gut and brain nuclei, enabling an unbiased identification of metabolic programs across tissues and dietary conditions.
+
+<img width="342" alt="Screenshot 2025-05-03 at 8 03 34 PM" src="https://github.com/user-attachments/assets/b781dfe2-89c8-4683-89f4-d80fe641467a" />
+
+Scripts are included in the "FLY-MAP"
 
 
 
