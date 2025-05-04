@@ -14,6 +14,9 @@ Standard Seurat workflow functions were applied in the following order: Normaliz
 
 <img width="1386" alt="Screenshot 2025-05-03 at 8 03 07 PM" src="https://github.com/user-attachments/assets/f921868f-8422-4756-9eb4-0793789668f4" />
 
+
+
+
 Scripts are included in the "Unsupervised clustering" folder.
 
 ## 3. Gut-Brain ligand–receptor (L–R) interaction analysis
