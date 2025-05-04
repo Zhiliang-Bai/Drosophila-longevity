@@ -28,7 +28,7 @@ Scripts are included in the "Gut-Brain L–R interaction analysis"
 
 We developed a computational pipeline, FLY-MAP, to extract and analyze metabolic profiles from the snRNA-seq dataset. Specifically, a metabolic matrix was constructed by extracting genes associated with Drosophila KEGG metabolic pathways, encompassing 11 major categories and 81 pathways, from the original whole-transcriptome gene expression matrix. Unsupervised clustering based on this metabolic matrix was then performed separately for gut and brain nuclei, enabling an unbiased identification of metabolic programs across tissues and dietary conditions.
 
-<img width="342" alt="Screenshot 2025-05-03 at 8 03 34 PM" src="https://github.com/user-attachments/assets/b781dfe2-89c8-4683-89f4-d80fe641467a" />
+<img width="817" alt="Screenshot 2025-05-03 at 8 27 49 PM" src="https://github.com/user-attachments/assets/e128cb79-ee20-4648-9087-22f05a788989" />
 
 Scripts are included in the "FLY-MAP"
 
